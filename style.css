@@ -1,0 +1,103 @@
+/* Custom CSS file for resume website */
+
+/* Setting the body font family and background color */
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: #f8f9fa;
+}
+
+/* Setting the navbar background color and text color */
+.navbar {
+    background-color: #343a40;
+    color: white;
+}
+
+/* Setting the navbar brand font size and weight */
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+/* Setting the navbar link text color and hover effect */
+.nav-link {
+    color: white !important;
+}
+
+.nav-link:hover {
+    color: #007bff !important;
+}
+
+#resume {
+    padding-top: 50px;
+}
+
+/* Setting the jumbotron title font size and weight */
+.jumbotron h2 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+/* Setting the jumbotron subtitle font size and weight */
+.jumbotron h3 {
+    font-size: 2rem;
+    font-weight: normal;
+}
+
+/* Setting the jumbotron button style and hover effect */
+.jumbotron button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+}
+
+.jumbotron button:hover {
+    background-color: #0069d9;
+}
+
+/* Setting the card title font size and weight */
+.card h4 {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+/* Setting the card subtitle font size and weight */
+.card h5 {
+    font-size: 1.2rem;
+    font-weight: normal;
+}
+
+/* Setting the card text color and alignment */
+.card p {
+    color: #6c757d;
+    text-align: justify;
+}
+
+/* Setting the card image style */
+.card img {
+    border-radius: 50%;
+}
+
+/* Setting the list group item style and hover effect */
+.list-group-item {
+    background-color: white;
+}
+
+.list-group-item:hover {
+    background-color: #f8f9fa;
+}
+
+/* Setting the badge style and margin */
+.badge {
+    margin-right: 0.5rem;
+}
+
+/* Setting the footer text color and alignment */
+.footer p {
+    color: white;
+    text-align: center;
+}
+
+.footer-icon {
+    width:32px; 
+    height:32px;
+}
